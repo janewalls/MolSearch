@@ -1,5 +1,5 @@
 # MolSearch
-### Virtual Screening tool for drug discovery
+### Virtual Screening tool for drug discovery**
 2 GUI's: one to add molecules to a database, and GUI to search that database for molecules under drug property parameters relating to ADME.
 Drugs can be filtered under:
 1. Lapinski's Rule of 5
@@ -7,7 +7,12 @@ Drugs can be filtered under:
 3. Bio-availablility
 4. Setting your own parameters
 
-See the paper relating to the software [here](https://github.com/janewalls/MolSearch/tree/main/LabReport.pdf)
+See the paper for the program [here](https://github.com/janewalls/MolSearch/tree/main/LabReport.pdf)
+
+
+** **Caveat:** This program was written to complete an assignment for the module "Using Chemical Structure Databases in Drug Discovery", during my Bioinformatics masters at the University of Glasgow. For which we had a week to create this program. 
+
+This should therefore **NOT** be used in real clinical research. 
 
 ## Requirements
 
